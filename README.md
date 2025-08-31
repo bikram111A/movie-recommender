@@ -31,7 +31,7 @@ The system measures similarity between movies using **cosine similarity**, which
 - **0** → no similarity  
 - **1** → perfect similarity  
 
-### 🔹 Why Cosine Similarity?  
+###  Why Cosine Similarity?  
 - Considers the **angle between vectors**, not their magnitude.  
 - Works well for text data of varying lengths.  
 - Smaller angles = higher similarity.  
@@ -48,7 +48,7 @@ The system measures similarity between movies using **cosine similarity**, which
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 Clone the repository:
 
